@@ -9,8 +9,9 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 >รหัสนักศึกษา 610112418026
 
 ###Link LAB
-[LAB1](https://github.com/isilinriwz/4134901-2-64/tree/main/610112418026/LAB1)
-[LAB2](https://github.com/isilinriwz/4134901-2-64/tree/main/LAB2)
+[LAB1](https://github.com/isilinriwz/4134901-2-64/tree/master/LAB1)
+[LAB2](https://github.com/isilinriwz/4134901-2-64/tree/master/LAB2)
+[LAB3](https://github.com/isilinriwz/4134901-2-64/tree/master/LAB3)
 
 ### RUN
 
